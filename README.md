@@ -16,11 +16,6 @@
 ## 🌐 Minhas Redes Sociais
 
 <div align="center">
-  <!-- GitHub -->
-  <a href="https://github.com/SEU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
